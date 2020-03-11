@@ -10,3 +10,4 @@ Your answer should be in the following format:
 Add your answer below the last entry in this list:
 
 - Cherry Garcia, Vui Nguyen, @vuinguyen
+- Sour Cream and Onion Kettle Chips, Jen Winer, @jenniferwiner
