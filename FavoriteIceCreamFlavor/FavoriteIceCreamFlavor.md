@@ -12,4 +12,5 @@ Add your answer below the last entry in this list:
 - Cherry Garcia, Vui Nguyen, @vuinguyen
 - Coffee Espresso Bean, Jen Winer, @jenniferwiner
 - Chocolate Hazelnut , Dominika Wilk , @dwilk8
-- Vanilla Bean, Evil twin of Dominika, @dwilk8
+- Chocolate Chip, Gail Pinto, @reneegailp
+
