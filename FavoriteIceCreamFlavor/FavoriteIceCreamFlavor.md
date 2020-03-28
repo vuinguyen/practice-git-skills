@@ -12,3 +12,6 @@ Add your answer below the last entry in this list:
 - Cherry Garcia, Vui Nguyen, @vuinguyen
 - Coffee Espresso Bean, Jen Winer, @jenniferwiner
 - Chocolate Fudge Brownie, Renée Cruz,@reneecruz
+- Chocolate Hazelnut , Dominika Wilk , @dwilk8
+- Chocolate Chip, Gail Pinto, @reneegailp
+
