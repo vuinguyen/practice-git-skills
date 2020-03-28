@@ -11,3 +11,4 @@ Add your answer below the last entry in this list:
 
 - Cherry Garcia, Vui Nguyen, @vuinguyen
 - Coffee Espresso Bean, Jen Winer, @jenniferwiner
+- Mint Chocolate Chip, Shweta S, @shrivass77
