@@ -11,6 +11,7 @@ Your answer should be in the following format:
 Add your answer below the last entry in this list:
 
 - Cherry Garcia, Vui Nguyen, @vuinguyen
+- Vegan Vanilla, April Day, @AprilDDay
 - Coffee Espresso Bean, Jen Winer, @jenniferwiner
 - Salted Caramel, Cara Steffen @cssteffen
 - Pistachio, Akshita Korwar, @akshitakorwar
@@ -24,4 +25,3 @@ Add your answer below the last entry in this list:
 - Chocolate Chip, Gail Pinto, @reneegailp
 - Cookie Dough, Michelle Zulli, @mzulli
 - Chocochip and Brownie, Rashi Jain, @Rashi-jain21
-
