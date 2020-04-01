@@ -12,4 +12,9 @@ Add your answer below the last entry in this list:
 
 - Cherry Garcia, Vui Nguyen, @vuinguyen
 - Coffee Espresso Bean, Jen Winer, @jenniferwiner
-  -Strawberry, Svetlana Rovinksy, @Skipup
+- Strawberry, Svetlana Rovinksy, @Skipup
+- Chocolate, Suze Shardlow, @SuzeShardlow
+- Mint Choc Chip, Simon Prickett, @simonprickett
+- Chocolate Hazelnut , Dominika Wilk , @dwilk8
+- Chocolate Chip, Gail Pinto, @reneegailp
+- Chocochip and Brownie, Rashi Jain, @Rashi-jain21
