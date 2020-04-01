@@ -12,6 +12,7 @@ Add your answer below the last entry in this list:
 
 - Cherry Garcia, Vui Nguyen, @vuinguyen
 - Coffee Espresso Bean, Jen Winer, @jenniferwiner
+- Pistachio, Akshita Korwar, @akshitakorwar
 - Chocolate Fudge Brownie, Renée Cruz,@reneecruz
 - Mint Chocolate Chip, Shweta S, @shrivass77
 - Cookies and Craem , Chaitri Shyam, @chaitri
