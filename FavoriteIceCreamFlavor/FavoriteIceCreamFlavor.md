@@ -13,6 +13,7 @@ Add your answer below the last entry in this list:
 - Cherry Garcia, Vui Nguyen, @vuinguyen
 - Vegan Vanilla, April Day, @AprilDDay
 - Coffee Espresso Bean, Jen Winer, @jenniferwiner
+- Vanilla, Marie-Claire Traore, @mctraore
 - Salted Caramel, Cara Steffen @cssteffen
 - Pistachio, Akshita Korwar, @akshitakorwar
 - Chocolate Fudge Brownie, Renée Cruz,@reneecruz
